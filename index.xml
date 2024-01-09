@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Xin&#39;s World</title>
+        <link>https://Linx1993.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 09 Jan 2024 13:47:24 &#43;0800</lastBuildDate>
+            <atom:link href="https://Linx1993.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>https://Linx1993.github.io/posts/first_post/</link>
+    <pubDate>Tue, 09 Jan 2024 13:47:24 &#43;0800</pubDate>
+    <author>Xin Lin</author>
+    <guid>https://Linx1993.github.io/posts/first_post/</guid>
+    <description><![CDATA[#First post]]></description>
+</item>
+</channel>
+</rss>
